@@ -41,7 +41,6 @@ cd twitter-sentiment-bert
 pip install -r requirements.txt
 ```
 
-```
 
 ## 📊 Model Training
 The model is trained using **PyTorch** with the following settings:
